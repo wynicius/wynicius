@@ -1,8 +1,6 @@
 # 💫🎴 ABOUT ME:
-### Hi! 👋 My name is Wynícius Matheus da Silva, but you can call me Wyni. I'm 25 years old and I'm majoring in Systems Analysis and Development.
+### Hi! 👋 Be Welcomed!
 
-- 🔭 I’m currently open to job and internship opportunities, getting ready to start my career in the IT industry.
-- 🌱 I’m currently learning C#.
 - 📫 How to reach me: send me an email at wynicius@gmail.com.
 
 ## 🌐 Socials:
